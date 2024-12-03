@@ -19,5 +19,3 @@ This notebook:
 
   - Compares the predicted maps with ground truth maps from AWS station data, providing a visual assessment of model performance.
  
-- **`Coordinate.ipynb`** 
-This notebook extracts coordinates of various provinces in Vietnam, which are used to draw provincial boundaries on the maps generated in `Result and Map.ipynb`.
